@@ -54,11 +54,7 @@ section{
 }
 
 #Home{
-    color: black;
-    background-image: url("background.png");
-    
-    
-
+   background-image: url(/images/back.png);
 
 }
 
@@ -147,6 +143,7 @@ span{
     position: absolute;
     box-shadow: 0 0 20px 0 #999;
     background-color :#F4E600 ;
+    
 
 }
 form{
@@ -166,8 +163,4 @@ form{
     margin-left: 570px;
     
 }
-
-
-
-
 
